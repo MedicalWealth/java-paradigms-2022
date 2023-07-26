@@ -1,0 +1,55 @@
+# Do not store hidden files and directories, including .idea project
+.*
+
+# Do not store anything starting with _
+_*
+
+# Do not store .class files
+*.class
+paradigms.iml
+
+/java-solutions/expression/exceptions/TripleParser.java
+/java-solutions/expression/exceptions/package-info.java
+/java-solutions/expression/exceptions/ExceptionsTest.java
+/java-solutions/expression/exceptions/ExceptionsTester.java
+/java-solutions/expression/exceptions/ExceptionsTestSet.java
+
+# Store .git files
+!.git*
+
+/java-solutions/base/
+/java-solutions/expression/common
+
+/java-solutions/expression/parser/Operations.java
+/java-solutions/expression/parser/package-info.java
+/java-solutions/expression/parser/ParserTester.java
+/java-solutions/expression/parser/ParserTestSet.java
+
+/java-solutions/expression/ExpressionTester.java
+/java-solutions/expression/package-info.java
+/java-solutions/expression/ToMiniString.java
+/java-solutions/expression/TripleExpression.java
+
+/java-solutions/search/BinarySearchTest.java
+
+/java-solutions/queue/ArrayQueueTest.java
+/java-solutions/queue/ArrayQueueTester.java
+/java-solutions/queue/Queues.java
+/java-solutions/queue/ReflectionTest.java
+/java-solutions/queue/QueueTest.java
+/java-solutions/queue/QueueTester.java
+/java-solutions/expression/generic/GenericTest.java
+/java-solutions/expression/generic/GenericTester.java
+/java-solutions/expression/generic/package-info.java
+/java-solutions/expression/generic/Tabulator.java
+/javascript/
+/javascript-solutions/javascript/
+/clojure-solutions/clojure/
+
+/prolog-solutions/prolog
+/prolog-solutions/clojure
+/prolog-solutions/java
+/prolog-solutions/javascript
+/clojure-solutions/java
+/clojure-solutions/prolog
+/clojure-solutions/javascript
